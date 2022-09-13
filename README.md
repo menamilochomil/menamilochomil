@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @menamilochomil
 - 👀 I’m interested in JS, front-end and UX.
 - 🌱 I’m currently learning JS.
-- 💞️ I’m looking to collaborate on front-end developers
+- 💞️ I’m looking to collaborate as front-end developers
 - 📫 How to reach me: jimenamilochomil@gmail.com
 
 <!---
